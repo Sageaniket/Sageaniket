@@ -1,9 +1,11 @@
-<div align="center">
-<img src="https://camo.githubusercontent.com/eefada90804e2564b4871e69fe1fb6c2f247f5821fc1be285fbf36abd0cb4c30/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3036663231613136313932313931392e363363643738383764306137302e676966" align="center" style="width: 100%" />
-</div>  
-  
+# Hi, I'm Aniket 👩‍💻
 
-### <div align="center">I'm Aniket, a full-time Software Developer  👨‍💻 working remotely since 2013 🚀</div>  
+[![Linkedin: Eklavya](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eklavya-prasad/)](https://www.linkedin.com/in/aniketsinha03/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/aniket?label=Follow)](https://twitter.com/_AniketSinha)
+![GitHub followers](https://img.shields.io/github/followers/aniket?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Sageaniket&color=brightgreen">  
+
+<div align="center">I'm Aniket, a full-time Software Developer  👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on React.Js  
