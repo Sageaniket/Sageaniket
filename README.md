@@ -5,22 +5,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/aniket?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Sageaniket&color=brightgreen">  
 
-<div align="center">I'm Aniket, a full-time Software Developer  👨‍💻 working remotely since 2013 🚀</div>  
-  
+<img align="center" src="https://github.com/Sageaniket/Sageaniket/blob/main/banner%20(1).png" /> 
 
-- 🔭 I’m currently working on React.Js  
-  
+<h2 align="left">About me</h2>
+<img alt="Coding" src="https://tenor.com/mmNMTivoqNC.gif" align="right"/>
 
-- 🌱 I’m currently learning Cyber Security  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies and Cyber Security  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+- 🎓 Currently a **Security Engineer** at CYBER HEALS
+- 💡 Actively involved in Vulnerability Assessment and Penetration Testing (VAPT), red teaming.
+- 🌱 Hands-on experience in software development, specializing in ReactJS, MongoDB, NodeJS.ExpressJS
+- 💬 Excited about integrating cybersecurity and software development skills to tackle challenges in both domains
+- 📫 How to reach me - You can mail me at **aniketsinhadhn@gmail.com**
 
 
 ## My Skill Set  
