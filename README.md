@@ -1,6 +1,6 @@
 # Hi, I'm Aniket 👩‍💻
 
-[![Linkedin: Eklavya](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eklavya-prasad/)](https://www.linkedin.com/in/aniketsinha03/)
+[![Linkedin: Eklavya](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniketsinha03/)](https://www.linkedin.com/in/aniketsinha03/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aniket?label=Follow)](https://twitter.com/_AniketSinha)
 ![GitHub followers](https://img.shields.io/github/followers/aniket?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Sageaniket&color=brightgreen">  
@@ -15,6 +15,25 @@
 - 🌱 Hands-on experience in **Software development**, specializing in ReactJS, MongoDB, NodeJS.ExpressJS
 - 💬 Excited about integrating cybersecurity and software development skills to tackle challenges in both domains
 - 📫 How to reach me - You can mail me at **aniketsinhadhn@gmail.com**
+
+
+## Find me around the web 🌎 <img align="left" width="150" height="146" src="https://github.com/Sageaniket/Sageaniket/blob/main/look-for-analyst.gif">
+<p align="left">
+<a href="https://twitter.com/rahulmallick01" target="blank"><img align="center"  margin-right="140px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmallick01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aniketsinha03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniketsinha03/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Aniket01_Sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xrahulmallickx" height="30" width="40" /></a>
+<a href="https://leetcode.com/rahulmallick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahulmallick/" height="30" width="40" /></a>
+  <a href="https://tryhackme.com/p/Skykai" target="_blank">
+  <img src="https://tryhackme.com/badge/205727" alt="TryHackMe Profile" height="30" width="40" />
+</a>
+
+</p>
+
+
+
+
+
+
 
 
 ## My Skill Set  
