@@ -8,11 +8,11 @@
 <img align="center" src="https://github.com/Sageaniket/Sageaniket/blob/main/banner%20(1).png" /> 
 
 <h2 align="left">About me</h2>
-<img alt="Coding" src="https://tenor.com/mmNMTivoqNC.gif" align="right"/>
+<img alt="Coding" src="https://github.com/Sageaniket/Sageaniket/blob/main/juicebox-banny.gif" align="right"/ height="200px" width="200px">
 
 - 🎓 Currently a **Security Engineer** at CYBER HEALS
-- 💡 Actively involved in Vulnerability Assessment and Penetration Testing (VAPT), red teaming.
-- 🌱 Hands-on experience in software development, specializing in ReactJS, MongoDB, NodeJS.ExpressJS
+- 💡 Actively involved in Vulnerability Assessment and Penetration Testing (**VAPT**), red teaming.
+- 🌱 Hands-on experience in **Software development**, specializing in ReactJS, MongoDB, NodeJS.ExpressJS
 - 💬 Excited about integrating cybersecurity and software development skills to tackle challenges in both domains
 - 📫 How to reach me - You can mail me at **aniketsinhadhn@gmail.com**
 
